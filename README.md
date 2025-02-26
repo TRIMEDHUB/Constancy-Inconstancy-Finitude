@@ -6,7 +6,7 @@ This repository contains the simulation code and data for the study on the Theor
 This repository contains the simulation code and data for the study on the Theory of Constancy, Inconstancy, and Finitude. It models the lifecycle of systems through phases of stability, transformation, and cessation.
 
 ## Requirements
-- Python 3.10+
+- Python 3.12
 - NumPy
 - Matplotlib
 - SciPy
