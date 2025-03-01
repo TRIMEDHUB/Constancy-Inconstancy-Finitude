@@ -1,16 +1,16 @@
 # Constancy-Inconstancy-Finitude
 
-Este repositório contém a implementação da Teoria da Constância, Inconstância e Finitude, incluindo simulações computacionais para modelar a evolução estelar.
+This repository contains the implementation of the Theory of Constancy, Inconstancy, and Finitude, including computational simulations to model stellar evolution.
 
-## 📊 Gráficos Gerados
-Os scripts deste repositório produzem visualizações para representar:
-- A evolução da luminosidade estelar ao longo do tempo.
-- As três fases do modelo: **Constância**, **Inconstância** e **Finitude**.
-- A comparação dos resultados simulados com dados observacionais.
+## 📊 Generated Graphs
+The scripts in this repository generate visualizations representing:
+- The evolution of stellar luminosity over time.
+- The three phases of the model: **Constancy**, **Inconstancy**, and **Finitude**.
+- The comparison of simulated results with observational data.
 
-## 📜 Como Usar
-Para executar os scripts e gerar os gráficos:
+## 📜 How to Use
+To run the scripts and generate the graphs:
 
-1. Clone este repositório:
+1. Clone this repository:
    ```bash
-   git clone https://github.com/SEU_USUARIO/Constancy-Inconstancy-Finitude.git
+   git clone https://github.com/YOUR_USERNAME/Constancy-Inconstancy-Finitude.git
